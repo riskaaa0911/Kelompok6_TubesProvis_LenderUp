@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691272511712",
+    "project_id": "lender-up",
+    "storage_bucket": "lender-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691272511712:android:c75dd650f812aca1306085",
+        "android_client_info": {
+          "package_name": "com.example.lander_up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNMi4-uK3sGeLlOI_wExM7J4EwvrR2vZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
